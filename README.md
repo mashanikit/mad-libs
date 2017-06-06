@@ -19,3 +19,5 @@
 
 ![Sailor Moon](sailor-moon.png)
 
+git branch test <- creating a new branch
+git checkout test <- switches to test branch
